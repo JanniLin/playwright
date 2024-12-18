@@ -1,0 +1,185 @@
+{
+  "cookies": [
+    {
+      "name": "renderid",
+      "value": "publisher2",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2024-12-18T12:54:31.992Z",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1766062471,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_EYGYLWSTX2",
+      "value": "GS1.1.1734526468.1.1.1734526472.60.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1797598472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Wed+Dec+18+2024+14%3A54%3A32+GMT%2B0200+(Eastern+European+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=81586ab2-4c6a-49bd-a695-ced080903f6f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1766062472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_W1T3XZ3Z92",
+      "value": "GS1.1.1734526472.1.0.1734526472.0.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1797598472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.437747833.1734526468",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1797598472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJ4Ac-h_Oi1gCNk6T",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJ4MiCzJcrhQ4",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJ4MiCzKSoc",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJ4MiCzDSaYiA",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdcL",
+      "value": "1:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 4888126472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdk-R",
+      "value": "190fcc6d-7850-4925-8b8c-7c592c61d049:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 4888126472,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdkLzJhXhh",
+      "value": "1734526473:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdkLW6",
+      "value": "a17d4c88-6715-43c1-8c7d-a44e3adee9d3:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdeLz5crdh",
+      "value": "1:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdeLW6",
+      "value": "4428719d-10a7-4838-a907-5786bb5de95c:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "JJTdeLzJhXhh",
+      "value": "1734526473:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1734530072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.epam.com",
+      "localStorage": [
+        {
+          "name": "ContextHubPersistence",
+          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":2560,\"height\":1440},\"devicePixelRatio\":2,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":2560,\"height\":1440},\"percentageUsage\":1},\"browser\":{\"version\":\"605.1.15\",\"family\":\"Safari\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15\"},\"device\":{\"category\":\"Desktop\",\"type\":\"Desktop\",\"model\":\"PC\",\"version\":\"\"},\"isMobile\":true,\"os\":{\"name\":\"Mac OS X\",\"version\":\"10.15.7\"},\"year\":2024,\"month\":12,\"day\":18,\"hour\":14,\"minutes\":54},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Mac OS X\",\"platformVersion\":\"10.15.7\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Mac OS X\",\"platformVersion\":\"10.15.7\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"ua-l10n-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/ua-l10n-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/ua-l10n-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1734526460879,\"raw-response\":{}},\"location\":{\"continent\":\"Europe\",\"continentCode\":\"EU\",\"country\":\"Ukraine\",\"countryCode\":\"UA\",\"region\":\"Kharkivsâka Oblastâ\",\"regionCode\":\"63\",\"city\":\"Kharkiv\",\"postalCode\":\"61000\",\"latitude\":\"49.98200\",\"longitude\":\"36.25660\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"UA\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
+        }
+      ]
+    }
+  ]
+}
